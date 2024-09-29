@@ -8,12 +8,14 @@ h1{
     font-weight: 500;
     line-height: 38px;
     margin: 10px 0px 6px 35px;
+    color: rgb(40, 40, 40);
 }
 
 h2{
     font-size: 26px;
     line-height: 32px;
     margin: 5px 0px 12px 0px;
+    color: rgb(64, 64, 64);
 }
 
 ul{
@@ -28,4 +30,5 @@ li{
     font-size: 18px;
     line-height: 22px;
     margin-top: 3px;
+    color: rgb(121, 121, 121);
 }
